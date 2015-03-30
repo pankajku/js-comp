@@ -1,2 +1,2 @@
 # js-comp
-Learn and compare Javascript libraries and frameworks
+Compare Javascript libraries and frameworks
